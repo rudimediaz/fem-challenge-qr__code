@@ -1,0 +1,26 @@
+{
+  "name": "fem-challenge-qr__code",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "vite",
+    "build" : "vite build",
+    "preview" : "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudimediaz/fem-challenge-qr__code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudimediaz/fem-challenge-qr__code/issues"
+  },
+  "homepage": "https://github.com/rudimediaz/fem-challenge-qr__code#readme",
+  "devDependencies": {
+    "vite": "^3.0.7"
+  }
+}
